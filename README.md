@@ -23,7 +23,7 @@
      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
      <img src="https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown">
      <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-     <img src="https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=sql">
+     <img src="https://img.shields.io/badge/SQL-0062EA?style=for-the-badge&logo=sql">
     </td>
   </tr>
   <tr>
@@ -33,10 +33,25 @@
       <img src="https://img.shields.io/badge/Matplotlib-000?style=for-the-badge&logo=matplotlib">
       <img src="https://img.shields.io/badge/Seaborn-000?style=for-the-badge&logo=seaborn">
       <img src="https://img.shields.io/badge/numpy-000?style=for-the-badge&logo=numpy">
-      <img src="https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117">
+      <img src="https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117">
+    </td>
+  </tr>
+  <tr>
+    <td>Ferramentas</td>
+    <td>
+      <img src="https://img.shields.io/badge/jupyter-000?style=for-the-badge&logo=jupyter">
+      <img src="https://img.shields.io/badge/anaconda-000?style=for-the-badge&logo=anaconda">
+      <img src="https://img.shields.io/badge/knime-000?style=for-the-badge&logo=knime">
+      <img src="https://img.shields.io/badge/sheets-000?style=for-the-badge&logo=googlesheets">
+      <img src="https://img.shields.io/badge/looker%20studio-000?style=for-the-badge&logo=looker">
+      <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+      <img src="https://img.shields.io/badge/Power%20BI-E6C127?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Excel-10733B?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white")
     </td>
   </tr>
 </tbody>
 </table>
+
 
 
